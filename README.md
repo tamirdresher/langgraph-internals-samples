@@ -18,3 +18,7 @@ python structured_cases.py
 ```
 
 Versions are pinned (langgraph 1.2.12, langchain-core 1.6.6, langchain 1.4.3, deepagents 0.7.20). LangGraph internals move between releases, so treat the class names the scripts print as a snapshot.
+
+## Follow-up example
+
+- [Crash recovery](crash-recovery/README.md): Companion for the follow-up article, with its own pinned environment. Follow its README and separate requirements/constraints rather than the root requirements.
